@@ -4,6 +4,3 @@
 
 (deftest replace-me ;; FIXME: write
   (is true "No tests have been written."))
-
-(deftest ishouldfail
-  (fail "booya"))
